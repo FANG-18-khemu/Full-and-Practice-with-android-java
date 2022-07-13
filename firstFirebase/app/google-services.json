@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946683201727",
+    "project_id": "firstfirebase-17404",
+    "storage_bucket": "firstfirebase-17404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946683201727:android:0a35e0da32ee5ae6909e0a",
+        "android_client_info": {
+          "package_name": "com.example.firstfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946683201727-g92lmpj3jd9ev3qnhieqo56spl92056s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqQbtFLTeO_lcSn0k5hRuaiODYJuGOufE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946683201727-g92lmpj3jd9ev3qnhieqo56spl92056s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

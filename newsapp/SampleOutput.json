@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "By talkSPORT",
+      "title": "Football news and gossip LIVE: De Bruyne hits four as Man City restore lead over Liverpool, Leeds facing...",
+      "description": "",
+      "url": "https://talksport.com/football/1104879/transfers-latest-news-man-city-liverpool-title-chelsea-man-utd-arsenal-tottenham-haaland-de-jong/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/05/talksport-Leeds.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2022-05-12T06:45:55Z",
+      "content": "Follow our live blog for all the latest news and gossip from the world of football.\r\nManchester City may just have one hand on the Premier League trophy after Kevin De Bruyne smashed four past Wolves… [+524 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Rob Dawson",
+      "title": "Kevin de Bruyne mimics Erling Haaland celebration on four-goal night",
+      "description": "Pep Guardiola has backed Erling Haaland to \"adapt quickly\" to his style of football at Manchester City.",
+      "url": "http://espn.go.com/soccer/manchester-city-engman_city/story/4663583/erling-haaland-will-adapt-quickly-to-man-citys-stylesays-pep-guardiola",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0511%2Fr1011604_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-05-11T22:31:00Z",
+      "content": "Kevin de Bruyne welcomed new signing Erling Haaland to Manchester City with more than a decent imitation of the prolific Norwegian striker on Wednesday.\r\nDe Bruyne found the net four times in a 5-1 t… [+2358 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Andrea Adelson",
+      "title": "ACC mulls 3-5-5 college football scheduling model in an effort to scrap divisions",
+      "description": "ACC commissioner Jim Phillips and multiple ADs discussed a 3-5-5 conference scheduling model for football, where league teams would play three permanent opponents, then rotate through the rest over a two-year period (five one year, five the next).",
+      "url": "http://espn.go.com/college-football/story/_/id/33899589/acc-mulls-3-5-5-college-football-scheduling-model-effort-scrap-divisions",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1026%2Fr928931_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-05-11T22:18:30Z",
+      "content": "AMELIA ISLAND, Fla. -- The ACC is moving closer to adopting a new football scheduling format that would scrap divisions and give teams an opportunity to play each other more frequently, starting as e… [+5802 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "Superteams: What if college football's transfer portal didn't exist?",
+      "description": "Sean Merriman and RJ Young examine what this year's college football landscape would have looked like without the transfer portal.",
+      "url": "http://www.foxsports.com/stories/college-football/superteams-what-if-college-footballs-transfer-portal-didnt-exist",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/05/1408/814/05.05.2022_NoTranferPortal_Horizontal-1.jpg?ve=1&tl=1",
+      "publishedAt": "2022-05-11T20:32:48Z",
+      "content": "By Sean Merriman, FOX Sports Senior Editor and RJ Young\r\n, FOX Sports College Football Writer \r\nThe Wild West that is college footballs offseason continues to evolve at a rapid pace. \r\nMay 1 marked t… [+9355 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout>
+    
+    <data>
+        <variable
+            name="course"
+            type="com.example.lma.model.Course" />
+    </data>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/courseName1"
+            android:textSize="28sp"
+            android:text="@{course.course_name}"
+            android:textColor="@color/teal_200"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/coursePrice1"
+            android:textSize="18sp"
+            android:text="@{course.course_price}"
+            android:textColor="@color/black"
+            android:textStyle="italic"/>
+
+
+    </LinearLayout>
+</layout>
